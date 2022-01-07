@@ -9,7 +9,6 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.AssemblyReference.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
