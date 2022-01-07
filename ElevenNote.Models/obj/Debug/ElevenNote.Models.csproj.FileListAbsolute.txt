@@ -1,9 +1,6 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
@@ -12,4 +9,8 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Mode
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
